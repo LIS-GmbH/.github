@@ -1,6 +1,6 @@
 # LIS GmbH
 
-![LIS Logo](./../assets/images/lis-logo.png)
+![LIS Logo](../assets/images/lis-logo.png)
 
 ## About us
 
