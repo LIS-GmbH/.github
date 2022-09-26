@@ -6,9 +6,9 @@ A broad, consistent product range offers our users the possibility to use many p
 
 * Dispatching/alerting with interfaces to external systems
 * Operation documentation with accounting
-* Personnel management with duty scheduling
+* Staff management with duty scheduling
 * Equipment and material management
-* Watch book for documentation of all events during a shift
+* Station diary for documentation of all events during a shift
 * Activity report for recording and documenting all tasks of the
 organization
 * Emergency management
