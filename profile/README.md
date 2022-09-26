@@ -1,6 +1,6 @@
 # LIS GmbH
 
-For more than 30 years, LIS GmbH has been offering software for private and public security.
+For more than 30 years, LIS GmbH has been offering software for private and public safety.
 
 A broad, consistent product range offers our users the possibility to use many processes with one system.
 
