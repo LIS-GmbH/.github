@@ -1,6 +1,6 @@
 # LIS GmbH
 
-For more than 30 years, LIS GmbH has been offering software for private and public safety.
+For more than 35 years, LIS GmbH has been offering software for private and public safety.
 
 A broad, consistent product range offers our users the possibility to use many processes with one system.
 
@@ -20,6 +20,6 @@ In addition to standard products, we develop individually customized solutions -
 
 We're always looking for new talents. Currently we offer the following vacancies:
 
-* Full-Stack-Developer (.NET-Framework 4.8, ASP.Net-Core 6, SQL, Angular, Docker)
+* Full-Stack-Developer (.NET8, ASP.Net-Core8, EFC, SQL, Angular, Docker)
 
 Feel free to send us your CV at [info(at)lis-gmbh.com](mailto:info@lis-gmbh.com).
